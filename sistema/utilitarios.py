@@ -14,7 +14,7 @@ def sobre():
     """
     # Altere o caminho abaixo para o caminho absoluto do arquivo README
     try:
-        with open(r"C:\Users\User\Documents\portfolio\reservatrem\readme.txt", "r") as arquivo:
+        with open(r"C:\Users\User\Documents\portfolio\reservatrem\read.txt", "r") as arquivo:
             conteudo = arquivo.read()
             print(conteudo)
     except FileNotFoundError:
