@@ -45,13 +45,7 @@ O módulo `dados` contém funções que gerenciam a inserção de dados no banco
 3. **Execução**: Execute o arquivo `main.py` para iniciar o sistema. O menu será exibido, e você poderá escolher entre as opções disponíveis.
 4. **Dados de Trens**: Insira os dados dos trens no banco de dados utilizando um arquivo CSV. O caminho do arquivo deve ser atualizado no código `dados.py`.
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com melhorias e correções. Se você encontrar um bug ou tiver uma sugestão, por favor, abra uma issue ou envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
